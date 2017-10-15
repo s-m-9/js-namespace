@@ -1,9 +1,4 @@
 var MAGA0030 = {
-    prop1:123,
-    bob:function() {
-       
-    },
-    
     init:function() {
         var div = document.createElement("div");
         div.className = "box";
